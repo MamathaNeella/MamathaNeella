@@ -8,10 +8,10 @@
     - **Data Backup and Recovery**
     - **Basic Knowledge of Database Admininstration**
 - 🔧 Tools:
-- MySQL, HTML, CSS & Python
+    - MySQL, HTML, CSS & Python
       
 - :seedling: Currently Learning
-- I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on:
+  - I'm always eager to learn and stay updated with the latest technologies. Currently, I'm focusing on:
     - Advanced SQL concepts
     - Database admininstration best practices
     - Data security and encryption in databases
